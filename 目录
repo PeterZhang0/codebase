@@ -1,0 +1,18 @@
+做自己的代码仓库（codebase）：
+	face_recognition（人脸识别）；
+
+	web_scraping（数据采集）；
+
+	data_mining（数据挖掘）；
+
+	machine_learning(机器学习）；
+
+
+	library（库）：
+		numpy；
+		pandas；
+		scikit-learn；
+
+	frame(框架）：
+
+		tensorFlow（机器学习框架）；
